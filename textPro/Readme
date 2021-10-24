@@ -1,0 +1,10 @@
+Its text provider client:
+
+To run the java application:
+1) Run the command on terminal to retrive the line context by passing lineNumber
+java -cp /Users/neel/eclipse-workspace/TextClient/textPro/target/textPro-0.0.1-SNAPSHOT.jar com.client.textPro.Client 4000
+
+textPro-0.0.1-SNAPSHOT.jar --> build the jar through maven build
+com.client.textPro.Client  --> main class
+4000                       --> line Number
+
